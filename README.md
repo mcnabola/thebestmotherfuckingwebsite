@@ -7,7 +7,7 @@ This is all good, but I want to use this for a simple website now. I dont want t
 I like this MotherfuckingWebsite out of all the versions as it has pictures of Cats. The other websites dont have picture functionality.
 
 ## Clone the repo
-`git clone https://github.com/denysvitali/thebestmotherfuckingwebsite`
+`git clone https://github.com/mcnabola/thebestmotherfuckingwebsite`
 
 ## Deployment instructions
 ~~See `partial-nginx.conf` for the configuration file~~  
