@@ -24,6 +24,27 @@ rm 'tsconfig.json'
 rm 'webpack.config.js'
 rm 'webpack.config.prod.js'
 rm 'yarn.lock'
+
+The motherfucking purge continues
+        deleted:    .jshintrc
+        deleted:    nginx/README.md
+        deleted:    nginx/snippets/cors.conf
+        deleted:    nginx/snippets/gzip.conf
+        deleted:    nginx/snippets/ssl_best.conf
+        deleted:    nginx/thebestmotherfuckingwebsite.conf
+        deleted:    src/dist/LICENSE.txt
+        deleted:    src/dist/js/jquery-2.2.4.min.js
+        deleted:    src/img/cat.jpg
+        deleted:    src/img/css3.svg
+        deleted:    src/img/html5.svg
+        deleted:    src/img/js.svg
+        deleted:    src/img/kopimi.svg
+        deleted:    src/index.ts
+        deleted:    src/js/main.fucking.js
+        deleted:    src/less/main.less
+        deleted:    src/pug/index.pug
+        deleted:    src/pug/tracking.html
+
 ```
 Who needs this motherfucking stuff, still have to remove the JS, tracking files, fake JQuery, lots of CSS and the NGinx configurations folder.
 
