@@ -4,6 +4,8 @@ Based on [motherfuckingwebsite](http://motherfuckingwebsite.com/) and [bettermot
 
 This is all good, but I want to use this for a simple website now. I dont want to remove junk. I want to start adding content NOW. Thats why I stripped back the less necessary stuff and just kept the nice styling.
 
+I like this MotherfuckingWebsite out of all the versions as it has pictures of Cats. The other websites dont have picture functionality.
+
 ## Clone the repo
 `git clone https://github.com/denysvitali/thebestmotherfuckingwebsite`
 
@@ -51,4 +53,4 @@ Who needs this motherfucking stuff, still have to remove the JS, tracking files,
 Until your left with one index.html file not even a need for a motherfucking style sheet. We want this portable. 
 
 ## Want something to be changed?
-[Open an issue](https://github.com/denysvitali/thebestmotherfuckingwebsite/issues) and let's discuss it. If you want to implement it yourself do it freely and make a PR.
+[Open an issue](https://github.com/mcnabola/thebestmotherfuckingwebsite/issues) and let's discuss it. If you want to implement it yourself do it freely and make a PR.
