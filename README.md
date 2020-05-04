@@ -16,7 +16,7 @@ This is all good, but I want to use this for a simple website now. I dont want t
 
 What motherfucking programmer wanted to make things complicated. Since when was opening a HTML file in your browser so difficult, motherfuckers.
 
-
+```
 Owner@E7470PC MINGW64 ~/Documents/thebestmotherfuckingwebsite (master)
 $ git rm yarn.lock webpack.config.prod.js webpack.config.js tsconfig.json package.json
 rm 'package.json'
@@ -24,7 +24,7 @@ rm 'tsconfig.json'
 rm 'webpack.config.js'
 rm 'webpack.config.prod.js'
 rm 'yarn.lock'
-
+```
 Who needs this motherfucking stuff, still have to remove the JS, fake JQuery, lots of CSS and the NGinx configuration folder.
 
 Until your left with one index.html file not even a need for a motherfucking style sheet. We want this portable. 
