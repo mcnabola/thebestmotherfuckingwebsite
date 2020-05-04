@@ -25,7 +25,7 @@ rm 'webpack.config.js'
 rm 'webpack.config.prod.js'
 rm 'yarn.lock'
 ```
-Who needs this motherfucking stuff, still have to remove the JS, fake JQuery, lots of CSS and the NGinx configuration folder.
+Who needs this motherfucking stuff, still have to remove the JS, tracking files, fake JQuery, lots of CSS and the NGinx configurations folder.
 
 Until your left with one index.html file not even a need for a motherfucking style sheet. We want this portable. 
 
