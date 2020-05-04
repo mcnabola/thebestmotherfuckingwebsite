@@ -7,10 +7,10 @@ This is all good, but I want to use this for a simple website now. I dont want t
 ## Clone the repo
 `git clone https://github.com/denysvitali/thebestmotherfuckingwebsite`
 
-~~## Deployment instructions
-See `partial-nginx.conf` for the configuration file  
-## Build instructions
-In order to build this project, you'll need [Yarn]~~
+~~## Deployment instructions~~
+~~See `partial-nginx.conf` for the configuration file~~  
+~~## Build instructions~~
+~~In order to build this project, you'll need [Yarn]~~
 
 ```
 yarn install
